@@ -1,0 +1,35 @@
+CP213 Lab #6
+Ryan Chisholm
+
+Testing
+
+scannerTest
+Enter an integer ("Quit" to stop): 56
+Enter an integer ("Quit" to stop): 6
+Enter an integer ("Quit" to stop): 3
+Enter an integer ("Quit" to stop): t
+That is not an integer!
+Enter an integer ("Quit" to stop): hello
+That is not an integer!
+Enter an integer ("Quit" to stop): 9
+Enter an integer ("Quit" to stop): Quit
+That is not an integer!
+Total: 74
+
+
+
+stringPrinter
+5 *
+*****
+
+-5 *
+getMessage:
+Please Enter a Positive Number!
+
+toString:
+java.lang.Exception: Please Enter a Positive Number!
+
+printStackTrace:
+java.lang.Exception: Please Enter a Positive Number!
+	at cp213.Main.stringPrinter(Main.java:95)
+	at cp213.Main.main(Main.java:26)
