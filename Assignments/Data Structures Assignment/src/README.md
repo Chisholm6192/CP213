@@ -1,1 +1,1 @@
-The Main file simply calls all the others and makes the program actually run, the SingleLink.java class is a base class for a singly linked data structures to inherit basic traits from
+The Main file simply calls all the others and makes the program actually run, the SingleLink.java class is a base class for a singly linked data structures to inherit basic traits from. The remaining <data structure>.java classes just add methods of appending, insertion, removal and traversal methods for each specific data structure, they all utilize the base class of SingleLink.java
