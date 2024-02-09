@@ -1,0 +1,24 @@
+CP213 Lab #7
+Ryan Chisholm
+November 24th 2023
+
+
+Push Me Pushed -> Push Me
+
+Slider at 12 -> 12
+Slider at 76 -> 76
+
+Text Field "Hello World" -> Hello World
+Text Field "CP213" -> CP213
+
+Spinner at April -> April
+Spinner at September -> September
+
+Radio Buttons Star Trek -> Star Trek
+Radio Buttons Star Wars -> Star Wars
+
+Check Boxes Mustard -> [Mustard]
+Check Boxes Mustard, Onions -> [Mustard, Onions]
+Check Boxes Onions, Mustard -> [Onions, Mustard]
+Check Boxes Mustard, Ketchup, Onions -> [Mustard, Ketchup, Onions]
+
