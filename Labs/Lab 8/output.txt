@@ -1,0 +1,24 @@
+CP213 Lab #8
+Ryan Chisholm
+2023-11-28
+
+Testing
+
+RTSameView
+b = 10
+h = 20
+
+(b, h)
++ -> (11, 21)
+- -> (9, 19)
+== -> (15, 15)
+
+
+RTSliderView
+b = 10
+h = 20
+
+(b, h)
+BaseSlider = 20
+HeightSlider = 10
+(b, h) = (20, 10)
