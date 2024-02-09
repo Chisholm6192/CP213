@@ -1,0 +1,30 @@
+Lab 5
+Ryan Chisholm
+11/07/23
+
+
+Task 1
+
+IA object
+firstName = "Ryan"
+lastName = "Chisholm"
+id = "169027577"
+course = "CP104"
+
+OUTPUT:
+Ryan, Chisholm: 169027577
+Course: CP104
+
+
+Task 2
+
+CAS Object
+firstName = "Ryan"
+lastName = "Chisholm"
+department = "CP"
+term = "202309"
+
+OUTPUT:
+Chisholm, Ryan
+Department: CP
+Term: 202309
