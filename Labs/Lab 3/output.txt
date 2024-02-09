@@ -1,0 +1,29 @@
+Ryan Chisholm
+CP213
+Lab #3 Classes
+-----------------------------------------------------
+Test Getters
+123456
+Brown
+David
+1962-10-25
+
+Test Setters
+Updated Student:
+Name:      Brown, David
+ID:        123456
+Birthdate: 1962-10-25
+
+Test String
+Updated Student:
+Name:      Brown, David
+ID:        123456
+Birthdate: 1962-10-25
+
+Test CompareTo
+Student s1 = new Student(123456, "Brown", "David", LocalDate.parse("1962-10-25"));
+Student s2 = new Student(0, "Brown", "David", LocalDate.parse("1962-10-25"));
+
+OUTPUT
+1
+
